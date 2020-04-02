@@ -1,0 +1,17 @@
+.content{
+	width:40%;
+	padding:20px;
+	margin:40px;
+	border: 1px solid ;
+	
+}
+ul{
+	padding-left: 0px;
+	list-style-type: none;
+}
+.ing-declaration{
+	font-size:24px;
+}
+.img,.ul,.p,.h1{
+	padding-left: 30px;
+}
